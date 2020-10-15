@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![olivier-stasse's github stats](https://github-readme-stats.vercel.app/api?username=olivier-stasse)](https://github.com/olivier-stasse)
+
+- 🔭 I’m currently working on motion generation for the TALOS robot [![You should see the TALOS robot walking](https://img.youtube.com/vi/MmV-DpzeUHI/0.jpg)](https://www.youtube.com/watch?v=MmV-DpzeUHI)
