@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![olivier-stasse's github stats](https://github-readme-stats.vercel.app/api?username=olivier-stasse)](https://github.com/olivier-stasse)
 
-- 🔭 I’m currently working on motion generation for the TALOS robot with my colleagues from the Gepetto Group and with PAL-Robotics:
+- 🔭 I’m currently working on motion generation for the TALOS robot with my colleagues from the [Gepetto Group](https://github.com/gepetto) and with [PAL-Robotics](https://github.com/pal-robotics). 
 
 Here is an example:
 [![You should see the TALOS robot walking](https://img.youtube.com/vi/MmV-DpzeUHI/0.jpg)](https://www.youtube.com/watch?v=MmV-DpzeUHI)
