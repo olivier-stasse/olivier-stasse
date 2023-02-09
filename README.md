@@ -22,4 +22,5 @@ Here is an example:
 [![You should see the TALOS robot walking](https://img.youtube.com/vi/MmV-DpzeUHI/0.jpg)](https://www.youtube.com/watch?v=MmV-DpzeUHI)
 
 Some figures on my involvment on github:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=olivier-stasse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
